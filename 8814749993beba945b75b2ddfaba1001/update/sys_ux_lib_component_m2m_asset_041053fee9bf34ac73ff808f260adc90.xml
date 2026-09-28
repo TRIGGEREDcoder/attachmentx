@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_m2m_asset">
+    <sys_ux_lib_component_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="attachmen-x/index">9cb2461f8661f482adc76ad49e0b0f13</asset>
+        <component display_value="x-1781484-attachmen-x">8007cb0f375812c18f9af757413d3ab4</component>
+        <sys_class_name>sys_ux_lib_component_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-31 19:50:25</sys_created_on>
+        <sys_id>041053fee9bf34ac73ff808f260adc90</sys_id>
+        <sys_mod_count>201</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="attachmen-x" source="x_1781484_attach_0">8814749993beba945b75b2ddfaba1001</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="attachmen-x">8814749993beba945b75b2ddfaba1001</sys_scope>
+        <sys_update_name>sys_ux_lib_component_m2m_asset_041053fee9bf34ac73ff808f260adc90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 18:32:16</sys_updated_on>
+    </sys_ux_lib_component_m2m_asset>
+</record_update>

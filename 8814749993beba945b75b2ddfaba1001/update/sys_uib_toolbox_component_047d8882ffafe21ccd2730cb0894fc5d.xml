@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <component_config>{}</component_config>
+        <config_layout/>
+        <description>Custom attachment component</description>
+        <external_configuration_sources>[]</external_configuration_sources>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon/>
+        <image_icon display_value="sn_tile_icon/x-1781484-attachmen-x.svg">5c94c6558d605f2a76cb8dee3b6facf1</image_icon>
+        <internal_component>false</internal_component>
+        <label>Custom Attachment</label>
+        <macroponent display_value="Custom Attachment">11b98c30f39b74392b8af25b60955b61</macroponent>
+        <order>0</order>
+        <required_translations/>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-31 19:50:25</sys_created_on>
+        <sys_id>047d8882ffafe21ccd2730cb0894fc5d</sys_id>
+        <sys_mod_count>201</sys_mod_count>
+        <sys_name>Custom Attachment</sys_name>
+        <sys_package display_value="attachmen-x" source="x_1781484_attach_0">8814749993beba945b75b2ddfaba1001</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="attachmen-x">8814749993beba945b75b2ddfaba1001</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_047d8882ffafe21ccd2730cb0894fc5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 18:32:16</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="delete_multiple" query="documentkey=047d8882ffafe21ccd2730cb0894fc5d"/>
+</record_update>

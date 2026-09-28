@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image>d1a9cbcf930376585b75b2ddfaba1075</image>
+        <name>sn_tile_icon/x-1781484-attachmen-x.svg</name>
+        <size_bytes/>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-31 19:50:28</sys_created_on>
+        <sys_id>5c94c6558d605f2a76cb8dee3b6facf1</sys_id>
+        <sys_mod_count>201</sys_mod_count>
+        <sys_name>sn_tile_icon/x-1781484-attachmen-x.svg</sys_name>
+        <sys_package display_value="attachmen-x" source="x_1781484_attach_0">8814749993beba945b75b2ddfaba1001</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="attachmen-x">8814749993beba945b75b2ddfaba1001</sys_scope>
+        <sys_update_name>db_image_5c94c6558d605f2a76cb8dee3b6facf1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 18:32:17</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>sn_tile_icon/x-1781484-attachmen-x.svg</file_name>
+        <hash>a1e7b2330969e9ba8a262659ea0209ec956106b87c4275aa8d658d2fb505431c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1286</size_bytes>
+        <size_compressed>661</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 18:32:17</sys_created_on>
+        <sys_id>d1a9cbcf930376585b75b2ddfaba1075</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-02-18 18:32:17</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>5c94c6558d605f2a76cb8dee3b6facf1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="sn_tile_icon/x-1781484-attachmen-x.svg" sys_id="d1a9cbcf930376585b75b2ddfaba1075">d1a9cbcf930376585b75b2ddfaba1075</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 18:32:17</sys_created_on>
+        <sys_id>95a9cbcf930376585b75b2ddfaba1075</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>bVRta9swEP4+2H/QtC8bxLIkvyrEKbTQMmhhLO2+e7FqmzqSsdUk/ffTyXKd0ZkQPXf36O65k+zN1fnQoaMcxlarAjNCMZJqr6tW1QV+erwNcoxGU6qq7LSSBVYaX20/f9p8CQL01He6rGSFjF6j3e879Ev2eoVOpxMZj/VgDbLXhxW6k0oOpdHDwkIP7VkO6FHrbkRBABntFnRqK9MUOKe0P2PUyLZuzLt5bOXpWp8LHOSIoojbH76UzjCyzaixwI0x/ToMQcgpInqoQ04pDW0FT1mfu1a9/I/IhBChi87U8UWaffMP949u5KEt/ZygyXBihWrEthdkn+l/Y1rTyW1pTLlvDlKZTTh5fLiS4357M8jS2DGeWtOgnUuErqUpySZ08Xfu82ixHVXooXPXqK0K/LOsZcDgrAb94s5JydkK/Fht+LntujkIOBheO8uWR6l0VdkNrvravPXW+7CDrHNDF8V+7LUKdtIEtzaF/LjtvnyTw92gX3uMzFCq8VkPhwI72NlWvwWcxYS6Z4UClkTe+D4r/DrZl7Vd/b60I7IKHjjPVyzJ0L0DWYZuHMgpiViEOE9gtTZg7tYbznKS5tnkZOlCBpxBKgCJACaAlGSC2WgGq7UTm4q61dbihFPhnfFCdliAqnhWBSAnjMY2GsFqbTGpyqAWpyQXqXfSCzL1qgCkDOTlF8Ald0CAFKtTTDpz5ltmrvqk0znThcznlvncsgMJDMjpdNNLIt+ym146TQ+cLF7IbG6ZuU6BGZNYwPAZEXHiJig4KEu8MjfBlNBMeKcgCc2WDZEbg00J4P2Qkwy727e8TB8u3q4pezldPP+mwIW5vMBhPb83Dm3go7D9C6ayXQcGBQAA</data>
+        <length>868</length>
+        <position>1</position>
+        <sys_attachment display_value="sn_tile_icon/x-1781484-attachmen-x.svg" sys_id="d1a9cbcf930376585b75b2ddfaba1075">d1a9cbcf930376585b75b2ddfaba1075</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-18 18:32:17</sys_created_on>
+        <sys_id>59a9cbcf930376585b75b2ddfaba1075</sys_id>
+    </sys_attachment_doc>
+</record_update>

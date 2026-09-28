@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750,c1251a89db4c1010793ddf6b5e96199c</associated_types>
+        <bundles/>
+        <category>primitives</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <dispatched_events>8268fcb0b9738e3e8b7345d749ba458a,c13f192e075e3694922dbb3bd145a383</dispatched_events>
+        <ext_controller_dep/>
+        <extends/>
+        <extension_point/>
+        <form_factors>{}</form_factors>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <keyboard_shortcuts>{}</keyboard_shortcuts>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Custom Attachment</name>
+        <output_prop_mapping/>
+        <props>[
+    {
+        "defaultValue": "incident",
+        "description": "Table Name",
+        "fieldType": "string",
+        "label": "Table",
+        "mandatory": true,
+        "name": "table",
+        "readOnly": false,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": "",
+        "description": "Sys Id",
+        "fieldType": "string",
+        "label": "Sys ID",
+        "mandatory": true,
+        "name": "sysId",
+        "readOnly": false,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": "",
+        "description": "Add the custom actions you want to add.",
+        "fieldType": "json",
+        "label": "Action",
+        "mandatory": false,
+        "name": "extraActions",
+        "readOnly": false,
+        "typeMetadata": {
+            "schema": {
+                "type": "array"
+            }
+        },
+        "valueType": "string"
+    }
+]</props>
+        <required_sys_props/>
+        <required_translations>[ ]</required_translations>
+        <root_component display_value="x-1781484-attachmen-x">8007cb0f375812c18f9af757413d3ab4</root_component>
+        <root_component_config>{"table":"@context/table","sysId":"@context/sysId","extraActions":"@context/extraActions"}</root_component_config>
+        <root_component_definition>{"availableSlots":[]}</root_component_definition>
+        <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
+        <state_properties/>
+        <style_config>{}</style_config>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-31 19:50:23</sys_created_on>
+        <sys_id>11b98c30f39b74392b8af25b60955b61</sys_id>
+        <sys_mod_count>201</sys_mod_count>
+        <sys_name>Custom Attachment</sys_name>
+        <sys_package display_value="attachmen-x" source="x_1781484_attach_0">8814749993beba945b75b2ddfaba1001</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="attachmen-x">8814749993beba945b75b2ddfaba1001</sys_scope>
+        <sys_update_name>sys_ux_macroponent_11b98c30f39b74392b8af25b60955b61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-18 18:32:15</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=11b98c30f39b74392b8af25b60955b61"/>
+</record_update>
